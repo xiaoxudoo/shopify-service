@@ -1,0 +1,21 @@
+{
+  "name": "puppeteer-demo",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "es6": "rm -rf ./data/es6-pdf/* && node demo/es6-crawler.js",
+    "sf2juejin": "node demo/sf2juejin.js",
+    "shopify": "node src/google-shopify.js",
+    "analysis": "node src/analysis.js",
+    "mysql": "node src/mysql.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "lodash": "^4.17.15",
+    "mysql": "^2.18.1",
+    "puppeteer": "^2.1.1"
+  }
+}

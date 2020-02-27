@@ -1,0 +1,1185 @@
+[
+  {
+    "text": "Consumer Electronics",
+    "href": "//www.aliexpress.com/category/44/consumer-electronics.html",
+    "children": [
+      {
+        "text": "Accessories & Parts",
+        "href": "//www.aliexpress.com/category/200002394/accessories-parts.html",
+        "children": [
+          {
+            "text": "Cables & Adapters",
+            "href": "//www.aliexpress.com/category/200003200/digital-cables.html",
+            "children": [],
+            "state": "finished",
+            "many": 316
+          },
+          {
+            "text": "Electronic Cigarettes",
+            "href": "//www.aliexpress.com/category/200005280/electronic-cigarettes.html",
+            "children": [],
+            "state": "finished",
+            "many": 299
+          },
+          {
+            "text": "Batteries",
+            "href": "//www.aliexpress.com/category/528/batteries.html",
+            "children": [],
+            "state": "finished",
+            "many": 343
+          },
+          {
+            "text": "Chargers",
+            "href": "//www.aliexpress.com/category/410299/charger.html",
+            "children": [],
+            "state": "finished",
+            "many": 350
+          },
+          {
+            "text": "Home Electronic Accessories",
+            "href": "//www.aliexpress.com/category/200216598/home-electronic-accessories.html",
+            "children": [],
+            "state": "finished",
+            "many": 276
+          },
+          {
+            "text": "Bags & Cases",
+            "href": "//www.aliexpress.com/category/3802/digital-gear-bags.html",
+            "children": [],
+            "state": "finished",
+            "many": 344
+          }
+        ]
+      },
+      {
+        "text": "Home Audio & Video",
+        "href": "//www.aliexpress.com/category/200002397/home-audio-video.html",
+        "children": [
+          {
+            "text": "Televisions",
+            "href": "//www.aliexpress.com/category/634/television.html?site=glo&isrefine=y",
+            "children": [],
+            "state": "finished",
+            "many": 253
+          },
+          {
+            "text": "TV Receivers",
+            "href": "//www.aliexpress.com/category/100002950/tv-receivers.html",
+            "children": [],
+            "state": "finished",
+            "many": 297
+          },
+          {
+            "text": "Projectors",
+            "href": "//www.aliexpress.com/category/200217701/projectors.html",
+            "children": [],
+            "state": "finished",
+            "many": 293
+          },
+          {
+            "text": "Audio Amplifier Boards",
+            "href": "//www.aliexpress.com/w/wholesale-amplifiers.html?CatId=63701",
+            "children": [],
+            "state": "finished",
+            "many": 279
+          },
+          {
+            "text": "TV Sticks",
+            "href": "//www.aliexpress.com/category/200004329/tv-stick.html",
+            "children": [],
+            "state": "finished",
+            "many": 295
+          }
+        ]
+      },
+      {
+        "text": "Camera & Photo",
+        "href": "//www.aliexpress.com/category/200002395/camera-photo.html",
+        "children": [
+          {
+            "text": "Digital Cameras",
+            "href": "//www.aliexpress.com/category/200216589/digital-cameras.html",
+            "children": [],
+            "state": "finished",
+            "many": 300
+          },
+          {
+            "text": "Camcorders",
+            "href": "//www.aliexpress.com/category/200216582/camcorders.html",
+            "children": [],
+            "state": "finished",
+            "many": 287
+          },
+          {
+            "text": "Camera Drones",
+            "href": "//www.aliexpress.com/category/200116005/camera-drones.html",
+            "children": [],
+            "state": "finished",
+            "many": 296
+          },
+          {
+            "text": "Action Cameras",
+            "href": "//www.aliexpress.com/category/200186010/sports-action-video-cameras.html",
+            "children": [],
+            "state": "finished",
+            "many": 297
+          },
+          {
+            "text": "Photo Studio Supplies",
+            "href": "//www.aliexpress.com/category/200216612/photo-studio.html",
+            "children": [],
+            "state": "finished",
+            "many": 181
+          },
+          {
+            "text": "Camera & Photo Accessories",
+            "href": "//www.aliexpress.com/category/1903/camera-photo-accessories.html",
+            "children": [],
+            "state": "finished",
+            "many": 302
+          }
+        ]
+      },
+      {
+        "text": "Portable Audio & Video",
+        "href": "//www.aliexpress.com/category/200002398/portable-audio-video.html",
+        "children": [
+          {
+            "text": "Earphones & Headphones",
+            "href": "//www.aliexpress.com/category/63705/earphones-headphones.html",
+            "children": [],
+            "state": "finished",
+            "many": 299
+          },
+          {
+            "text": "Speakers",
+            "href": "//www.aliexpress.com/category/200217534/speakers.html",
+            "children": [],
+            "state": "finished",
+            "many": 323
+          },
+          {
+            "text": "MP3 Players",
+            "href": "//www.aliexpress.com/category/63710/mp3-player.html",
+            "children": [],
+            "state": "finished",
+            "many": 286
+          },
+          {
+            "text": "Microphones",
+            "href": "//www.aliexpress.com/category/63708/microphones.html",
+            "children": [],
+            "state": "finished",
+            "many": 295
+          },
+          {
+            "text": "VR/AR Devices",
+            "href": "//www.aliexpress.com/category/200215272/vr-ar-devices.html",
+            "children": [],
+            "state": "finished",
+            "many": 273
+          }
+        ]
+      },
+      {
+        "text": "Smart Electronics",
+        "href": "//www.aliexpress.com/category/200010196/smart-electronics.html",
+        "children": [
+          {
+            "text": "Wearable Devices",
+            "href": "//www.aliexpress.com/category/200084019/wearable-devices.html",
+            "children": [],
+            "state": "finished",
+            "many": 297
+          },
+          {
+            "text": "Smart Home Appliances",
+            "href": "//www.aliexpress.com/category/200084020/smart-home.html",
+            "children": [],
+            "state": "finished",
+            "many": 264
+          },
+          {
+            "text": "Smart Wearable Accessories",
+            "href": "//www.aliexpress.com/category/200010211/smart-accessories.html",
+            "children": [],
+            "state": "finished",
+            "many": 277
+          },
+          {
+            "text": "Smart Remote Controls",
+            "href": "//www.aliexpress.com/category/200086023/smart-remote-control.html",
+            "children": [],
+            "state": "finished",
+            "many": 274
+          },
+          {
+            "text": "Smart Watches",
+            "href": "//www.aliexpress.com/category/200010206/smart-watches.html",
+            "children": [],
+            "state": "finished",
+            "many": 299
+          },
+          {
+            "text": "Smart Wristbands",
+            "href": "//www.aliexpress.com/category/200010207/smart-wristbands.html",
+            "children": [],
+            "state": "finished",
+            "many": 286
+          }
+        ]
+      },
+      {
+        "text": "Video Games",
+        "href": "//www.aliexpress.com/category/200002396/video-games.html",
+        "children": [
+          {
+            "text": "Handheld Game Players",
+            "href": "//www.aliexpress.com/category/200215228/handheld-game-players.html",
+            "children": [],
+            "state": "finished",
+            "many": 282
+          },
+          {
+            "text": "Game Controllers",
+            "href": "//www.aliexpress.com/category/200215227/gamepads.html",
+            "children": [],
+            "state": "finished",
+            "many": 293
+          },
+          {
+            "text": "Joysticks",
+            "href": "//www.aliexpress.com/category/200215208/joysticks.html",
+            "children": [],
+            "state": "finished",
+            "many": 283
+          },
+          {
+            "text": "Stickers",
+            "href": "//www.aliexpress.com/category/200215246/stickers.html",
+            "children": [],
+            "state": "finished",
+            "many": 375
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "HomePetAppliances",
+    "href": "//www.aliexpress.com/category/15/home-garden.html",
+    "children": [
+      {
+        "text": "Art",
+        "href": "//www.aliexpress.com/category/200154001/arts-crafts-sewing.html",
+        "children": [
+          {
+            "text": "Fabric & Sewing Supplies",
+            "href": "//www.aliexpress.com/category/200168001/apparel-sewing-fabric.html",
+            "children": [],
+            "state": "finished",
+            "many": 297
+          },
+          {
+            "text": "Needle Arts & Craft",
+            "href": "//www.aliexpress.com/category/200190011/needle-arts-crafts.html",
+            "children": [],
+            "state": "finished",
+            "many": 282
+          },
+          {
+            "text": "Scrapbooking & Stamps",
+            "href": "//www.aliexpress.com/category/200194001/scrapbooking-stamping.html",
+            "children": [],
+            "state": "finished",
+            "many": 489
+          },
+          {
+            "text": "5D DIY Diamond Painting",
+            "href": "//www.aliexpress.com/category/200218622/5d-diy-diamond-painting.html",
+            "children": [],
+            "state": "finished",
+            "many": 277
+          }
+        ]
+      },
+      {
+        "text": "Home Decor",
+        "href": "//www.aliexpress.com/category/3710/home-decor.html",
+        "children": [
+          {
+            "text": "Painting & Calligraphy",
+            "href": "//www.aliexpress.com/category/1704/painting-calligraphy.html",
+            "children": [],
+            "state": "finished",
+            "many": 269
+          },
+          {
+            "text": "Wall Stickers",
+            "href": "//www.aliexpress.com/category/200002937/wall-stickers.html",
+            "children": [],
+            "state": "finished",
+            "many": 287
+          },
+          {
+            "text": "Figurines & Miniatures",
+            "href": "//www.aliexpress.com/category/200215377/figurines-miniatures.html",
+            "children": [],
+            "state": "finished",
+            "many": 287
+          },
+          {
+            "text": "Wall Clocks",
+            "href": "//www.aliexpress.com/category/152805/wall-clocks.html",
+            "children": [],
+            "state": "finished",
+            "many": 308
+          }
+        ]
+      },
+      {
+        "text": "Home Textiles",
+        "href": "//www.aliexpress.com/category/405/home-textile.html?isCates=y",
+        "children": [
+          {
+            "text": "Cushions",
+            "href": "//www.aliexpress.com/category/40503/cushion.html",
+            "children": [],
+            "state": "finished",
+            "many": 318
+          },
+          {
+            "text": "Curtains",
+            "href": "//www.aliexpress.com/category/40502/curtains.html",
+            "children": [],
+            "state": "finished",
+            "many": 250
+          },
+          {
+            "text": "Bedding Sets",
+            "href": "//www.aliexpress.com/category/40601/bedding-sets.html",
+            "children": [],
+            "state": "finished",
+            "many": 316
+          },
+          {
+            "text": "Beach Towels",
+            "href": "//sale.aliexpress.com/TGx3KcGbh6.htm",
+            "children": [],
+            "state": "finished",
+            "many": 318
+          }
+        ]
+      },
+      {
+        "text": "Celebrations",
+        "href": "//www.aliexpress.com/category/100002992/festive-party-supplies.html",
+        "children": [
+          {
+            "text": "Events & Parties",
+            "href": "//www.aliexpress.com/category/200215609/event-party.html",
+            "children": [],
+            "state": "finished",
+            "many": 315
+          },
+          {
+            "text": "Balloons",
+            "href": "//sale.aliexpress.com/4ovERk5NSD.htm",
+            "children": [],
+            "state": "finished",
+            "many": 299
+          },
+          {
+            "text": "Artificial & Dried Flowers",
+            "href": "//www.aliexpress.com/category/100002993/artificial-dried-flowers.html",
+            "children": [],
+            "state": "finished",
+            "many": 291
+          },
+          {
+            "text": "Gift Bags & Boxes",
+            "href": "//www.aliexpress.com/category/200215631/gift-bags-wrapping-supplies.html",
+            "children": [],
+            "state": "finished",
+            "many": 254
+          }
+        ]
+      },
+      {
+        "text": "Home Storage",
+        "href": "//www.aliexpress.com/category/1541/home-storage-organization.html",
+        "children": [
+          {
+            "text": "Storage Boxes & Bins",
+            "href": "//www.aliexpress.com/category/100004864/storage-boxes-bins.html",
+            "children": [],
+            "state": "finished",
+            "many": 276
+          },
+          {
+            "text": "Laundry Baskets",
+            "href": "//www.aliexpress.com/category/151606/laundry-bags-baskets.html",
+            "children": [],
+            "state": "finished",
+            "many": 287
+          },
+          {
+            "text": "Drawer Organizers",
+            "href": "//www.aliexpress.com/category/200215653/drawer-organizers.html",
+            "children": [],
+            "state": "finished",
+            "many": 291
+          },
+          {
+            "text": "Makeup Organizers",
+            "href": "//www.aliexpress.com/category/200217204/makeup-organizers.html",
+            "children": [],
+            "state": "finished",
+            "many": 289
+          }
+        ]
+      },
+      {
+        "text": "Household Items",
+        "href": "//www.aliexpress.com/category/200215281/household-merchandises.html",
+        "children": [
+          {
+            "text": "Umbrellas",
+            "href": "//sale.aliexpress.com/LixiovegXl.htm",
+            "children": [],
+            "state": "finished",
+            "many": 309
+          },
+          {
+            "text": "Bathroom Scales",
+            "href": "//www.aliexpress.com/category/100006591/bathroom-scales.html",
+            "children": [],
+            "state": "finished",
+            "many": 184
+          },
+          {
+            "text": "Sweepers & Mops",
+            "href": "//www.aliexpress.com/category/200217194/hand-push-sweepers.html",
+            "children": [],
+            "state": "finished",
+            "many": 276
+          },
+          {
+            "text": "Dust Covers",
+            "href": "//www.aliexpress.com/category/200215277/dust-covers.html",
+            "children": [],
+            "state": "finished",
+            "many": 294
+          }
+        ]
+      },
+      {
+        "text": "Kitchen",
+        "href": "//www.aliexpress.com/category/200002086/kitchen-dining-bar.html",
+        "children": [
+          {
+            "text": "Bakeware",
+            "href": "//www.aliexpress.com/category/100005652/bakeware.html",
+            "children": [],
+            "state": "finished",
+            "many": 258
+          },
+          {
+            "text": "Drinkware",
+            "href": "//www.aliexpress.com/category/100004960/drinkware.html",
+            "children": [],
+            "state": "finished",
+            "many": 324
+          },
+          {
+            "text": "Kitchen Tools & Gadgets",
+            "href": "//www.aliexpress.com/category/100004817/other-kitchen-tools-gadgets.html",
+            "children": [],
+            "state": "finished",
+            "many": 278
+          },
+          {
+            "text": "Kitchen Knives & Accessories",
+            "href": "//www.aliexpress.com/category/100004936/kitchen-knives-accessories.html",
+            "children": [],
+            "state": "finished",
+            "many": 299
+          }
+        ]
+      },
+      {
+        "text": "Garden Supplies",
+        "href": "//www.aliexpress.com/category/125/garden-supplies.html",
+        "children": [
+          {
+            "text": "Watering & Irrigation Kits",
+            "href": "//www.aliexpress.com/category/100001749/watering-irrigation.html",
+            "children": [],
+            "state": "finished",
+            "many": 289
+          },
+          {
+            "text": "Flower Pots & Planters",
+            "href": "//www.aliexpress.com/category/100001728/garden-pots-planters.html",
+            "children": [],
+            "state": "finished",
+            "many": 291
+          },
+          {
+            "text": "Repellents",
+            "href": "//www.aliexpress.com/category/200217604/repellents.html",
+            "children": [],
+            "state": "finished",
+            "many": 294
+          },
+          {
+            "text": "Garden Water Timers",
+            "href": "//www.aliexpress.com/category/100002405/garden-water-timers.html",
+            "children": [],
+            "state": "finished",
+            "many": 291
+          }
+        ]
+      },
+      {
+        "text": "Furniture",
+        "href": "//www.aliexpress.com/category/1503/furniture.html",
+        "children": [
+          {
+            "text": "Home Furniture",
+            "href": "//www.aliexpress.com/category/150303/home-furniture.html",
+            "children": [],
+            "state": "finished",
+            "many": 392
+          },
+          {
+            "text": "Office Furniture",
+            "href": "//www.aliexpress.com/category/150304/office-furniture.html",
+            "children": [],
+            "state": "finished",
+            "many": 337
+          },
+          {
+            "text": "Outdoor Furniture",
+            "href": "//www.aliexpress.com/category/150302/outdoor-furniture.html",
+            "children": [],
+            "state": "finished",
+            "many": 335
+          },
+          {
+            "text": "Top Furniture Stores",
+            "href": "//www.aliexpress.com/store/2064111",
+            "children": [],
+            "state": "finished",
+            "many": 320
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Outdoor Fun & Sports",
+    "href": "//www.aliexpress.com/category/18/sports-entertainment.html",
+    "children": [
+      {
+        "text": "Swimming",
+        "href": "//www.aliexpress.com/category/200001115/swimming.html",
+        "children": [
+          {
+            "text": "Bikini Sets",
+            "href": "//www.aliexpress.com/category/200214496/bikinis-set.html",
+            "children": [],
+            "state": "finished",
+            "many": 299
+          },
+          {
+            "text": "One-Piece Suits",
+            "href": "//www.aliexpress.com/category/200005189/one-piece-suits.html",
+            "children": [],
+            "state": "finished",
+            "many": 348
+          },
+          {
+            "text": "Two-Piece Suits",
+            "href": "//www.aliexpress.com/category/200005191/two-piece-suits.html",
+            "children": [],
+            "state": "finished",
+            "many": 299
+          },
+          {
+            "text": "Cover-Ups",
+            "href": "//www.aliexpress.com/category/200215171/cover-ups.html",
+            "children": [],
+            "state": "finished",
+            "many": 330
+          },
+          {
+            "text": "Men's Swimwear",
+            "href": "//www.aliexpress.com/category/200001228/men-swimwear.html",
+            "children": [],
+            "state": "finished",
+            "many": 313
+          },
+          {
+            "text": "Children's Swimwear",
+            "href": "//www.aliexpress.com/category/200001188/children-swimwear.html",
+            "children": [],
+            "state": "finished",
+            "many": 291
+          }
+        ]
+      },
+      {
+        "text": "Cycling",
+        "href": "//www.aliexpress.com/category/200003570/cycling.html",
+        "children": [
+          {
+            "text": "Bicycles",
+            "href": "//www.aliexpress.com/category/1204/bicycle.html",
+            "children": [],
+            "state": "finished",
+            "many": 300
+          },
+          {
+            "text": "Bicycle Frames",
+            "href": "//www.aliexpress.com/category/122203/bicycle-frame.html",
+            "children": [],
+            "state": "finished",
+            "many": 299
+          },
+          {
+            "text": "Bicycle Lights",
+            "href": "//www.aliexpress.com/category/122803/bicycle-light.html",
+            "children": [],
+            "state": "finished",
+            "many": 282
+          },
+          {
+            "text": "Bicycle Helmets",
+            "href": "//www.aliexpress.com/category/100002927/bicycle-helmet.html",
+            "children": [],
+            "state": "finished",
+            "many": 284
+          },
+          {
+            "text": "Cycling Jerseys",
+            "href": "//www.aliexpress.com/category/200005098/sports-jerseys.html",
+            "children": [],
+            "state": "finished",
+            "many": 287
+          },
+          {
+            "text": "Cycling Eyewear",
+            "href": "//www.aliexpress.com/category/200005091/cycling-eyewear.html",
+            "children": [],
+            "state": "finished",
+            "many": 299
+          }
+        ]
+      },
+      {
+        "text": "Sneakers",
+        "href": "//www.aliexpress.com/category/200005276/sneakers.html",
+        "children": [
+          {
+            "text": "Running Shoes",
+            "href": "//www.aliexpress.com/category/200100002/running-shoes.html",
+            "children": [],
+            "state": "finished",
+            "many": 329
+          },
+          {
+            "text": "Hiking Shoes",
+            "href": "//www.aliexpress.com/category/200100001/hiking-shoes.html",
+            "children": [],
+            "state": "finished",
+            "many": 309
+          },
+          {
+            "text": "Soccer Shoes",
+            "href": "//www.aliexpress.com/category/200110013/soccer-shoes.html",
+            "children": [],
+            "state": "finished",
+            "many": 285
+          },
+          {
+            "text": "Skateboarding Shoes",
+            "href": "//www.aliexpress.com/category/200102005/skateboarding-shoes.html",
+            "children": [],
+            "state": "finished",
+            "many": 290
+          },
+          {
+            "text": "Dance Shoes",
+            "href": "//www.aliexpress.com/category/200098003/dance-shoes.html",
+            "children": [],
+            "state": "finished",
+            "many": 310
+          },
+          {
+            "text": "Basketball Shoes",
+            "href": "//www.aliexpress.com/category/200096002/basketball-shoes.html",
+            "children": [],
+            "state": "finished",
+            "many": 290
+          }
+        ]
+      },
+      {
+        "text": "Fishing",
+        "href": "//www.aliexpress.com/category/100005444/fishing.html",
+        "children": [
+          {
+            "text": "Fishing Reels",
+            "href": "//www.aliexpress.com/category/100005451/fishing-reels.html",
+            "children": [],
+            "state": "finished",
+            "many": 300
+          },
+          {
+            "text": "Fishing Lures",
+            "href": "//www.aliexpress.com/category/100005453/fishing-lures.html",
+            "children": [],
+            "state": "finished",
+            "many": 289
+          },
+          {
+            "text": "Fishing Lines",
+            "href": "//www.aliexpress.com/category/100005450/fishing-lines.html",
+            "children": [],
+            "state": "finished",
+            "many": 300
+          },
+          {
+            "text": "Fishing Rods",
+            "href": "//www.aliexpress.com/category/100005452/fishing-rods.html",
+            "children": [],
+            "state": "finished",
+            "many": 292
+          },
+          {
+            "text": "Rod Combos",
+            "href": "//www.aliexpress.com/category/200110004/rod-combo.html",
+            "children": [],
+            "state": "finished",
+            "many": 296
+          },
+          {
+            "text": "Fishing Tackle Boxes",
+            "href": "//www.aliexpress.com/category/100005455/fishing-tackle-boxes.html",
+            "children": [],
+            "state": "finished",
+            "many": 292
+          }
+        ]
+      },
+      {
+        "text": "Sportswear",
+        "href": "//www.aliexpress.com/category/200001095/sports-clothing.html",
+        "children": [
+          {
+            "text": "Jerseys",
+            "href": "//www.aliexpress.com/category/200214366/jerseys.html",
+            "children": [],
+            "state": "finished",
+            "many": 342
+          },
+          {
+            "text": "Hiking Jackets",
+            "href": "//www.aliexpress.com/category/200005078/hiking-jackets.html",
+            "children": [],
+            "state": "finished",
+            "many": 287
+          },
+          {
+            "text": "Pants",
+            "href": "//www.aliexpress.com/category/200214344/pants.html",
+            "children": [],
+            "state": "finished",
+            "many": 393
+          },
+          {
+            "text": "Shorts",
+            "href": "//www.aliexpress.com/category/200214345/shorts.html",
+            "children": [],
+            "state": "finished",
+            "many": 393
+          },
+          {
+            "text": "Sports Bags",
+            "href": "//www.aliexpress.com/category/200217620/sport-bags.html",
+            "children": [],
+            "state": "finished",
+            "many": 359
+          },
+          {
+            "text": "Sports Accessories",
+            "href": "//www.aliexpress.com/category/200214370/sport-accessories.html",
+            "children": [],
+            "state": "finished",
+            "many": 367
+          }
+        ]
+      },
+      {
+        "text": "Other Sports Equipment",
+        "href": "//www.aliexpress.com/category/18/sports-entertainment.html",
+        "children": [
+          {
+            "text": "Camping & Hiking",
+            "href": "//www.aliexpress.com/category/100005433/camping-hiking.html",
+            "children": [],
+            "state": "finished",
+            "many": 297
+          },
+          {
+            "text": "Hunting",
+            "href": "//www.aliexpress.com/category/100005471/hunting.html",
+            "children": [],
+            "state": "finished",
+            "many": 317
+          },
+          {
+            "text": "Golf",
+            "href": "//www.aliexpress.com/category/100005322/golf.html",
+            "children": [],
+            "state": "finished",
+            "many": 336
+          },
+          {
+            "text": "Fitness & Bodybuilding",
+            "href": "//www.aliexpress.com/category/100005259/fitness-body-building.html",
+            "children": [],
+            "state": "finished",
+            "many": 273
+          },
+          {
+            "text": "Skiing & Snowboarding",
+            "href": "//www.aliexpress.com/category/100005599/skiing-snowboarding.html",
+            "children": [],
+            "state": "finished",
+            "many": 299
+          },
+          {
+            "text": "Musical Instruments",
+            "href": "//www.aliexpress.com/category/100005383/musical-instruments.html",
+            "children": [],
+            "state": "finished",
+            "many": 299
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Beauty, HealthHair",
+    "href": "//www.aliexpress.com/category/66/health-beauty.html",
+    "children": [
+      {
+        "text": "Hair Weaves",
+        "href": "//www.aliexpress.com/af/category/200218141.html?d=n&catName=human-hair-weaves&CatId=200218141&origin=n&isViewCP=y&jump=afs",
+        "children": [
+          {
+            "text": "Bundles With Closure",
+            "href": "//www.aliexpress.com/category/200218142/3-4-bundles-with-closure.html",
+            "children": [],
+            "state": "finished",
+            "many": 299
+          },
+          {
+            "text": "3/4 Bundles",
+            "href": "//www.aliexpress.com/category/200218151/3-4-bundles.html",
+            "children": [],
+            "state": "finished",
+            "many": 294
+          },
+          {
+            "text": "Pre-Colored Weaves",
+            "href": "//www.aliexpress.com/category/200218152/pre-colored-hair-weaves.html",
+            "children": [],
+            "state": "finished",
+            "many": 261
+          },
+          {
+            "text": "Closures",
+            "href": "//www.aliexpress.com/category/200218153/closures.html",
+            "children": [],
+            "state": "finished",
+            "many": 298
+          }
+        ]
+      },
+      {
+        "text": "Lace Wigs",
+        "href": "//www.aliexpress.com/category/200004346/lace-wigs.html",
+        "children": [
+          {
+            "text": "Lace Front Wigs",
+            "href": "//www.aliexpress.com/category/201950049/lace-front-wigs.html",
+            "children": [],
+            "state": "finished",
+            "many": 300
+          },
+          {
+            "text": "Full Lace Wigs",
+            "href": "//www.aliexpress.com/category/201948050/full-lace-wigs.html",
+            "children": [],
+            "state": "finished",
+            "many": 299
+          },
+          {
+            "text": "360 Lace Wigs",
+            "href": "//www.aliexpress.com/category/201972044/360-lace-wigs.html",
+            "children": [],
+            "state": "finished",
+            "many": 299
+          },
+          {
+            "text": "250% Density Lace Wigs",
+            "href": "//www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20180619235356&SearchText=250+density+lace+wig",
+            "children": [],
+            "state": "finished",
+            "many": 241
+          }
+        ]
+      },
+      {
+        "text": "Synthetic Hair",
+        "href": "//www.aliexpress.com/category/200217666/synthetic-wigs.html",
+        "children": [
+          {
+            "text": "Synthetic Lace Wigs",
+            "href": "//www.aliexpress.com/category/200217680/synthetic-lace-wigs.html",
+            "children": [],
+            "state": "finished",
+            "many": 302
+          },
+          {
+            "text": "Synthetic Weaves",
+            "href": "//www.aliexpress.com/category/200217667/synthetic-weave.html",
+            "children": [],
+            "state": "finished",
+            "many": 282
+          },
+          {
+            "text": "Hair Braids",
+            "href": "//www.aliexpress.com/category/200217671/hair-braids.html",
+            "children": [],
+            "state": "finished",
+            "many": 276
+          },
+          {
+            "text": "Synthetic Extensions",
+            "href": "//www.aliexpress.com/category/200217672/synthetic-extensions.html",
+            "children": [],
+            "state": "finished",
+            "many": 279
+          }
+        ]
+      },
+      {
+        "text": "Makeup",
+        "href": "//www.aliexpress.com/premium/category/660103.html?spm=2114.search0203.0.0.122417a0CYdDGj&site=glo&isrefine=y&SortType=total_tranpro_desc&g=y&tc=ppc&tag=&needQuery=n",
+        "children": [
+          {
+            "text": "Eyes",
+            "href": "//www.aliexpress.com/premium/eyes.html?spm=2114.search0204.0.0.eb724594TLm0zD&isrefine=y&site=glo&SortType=total_tranpro_desc&g=y&SearchText=eyes&tc=ppc&CatId=200002517&needQuery=n",
+            "children": [],
+            "state": "finished",
+            "many": 383
+          },
+          {
+            "text": "Lips",
+            "href": "//www.aliexpress.com/premium/category/200002529.html?spm=2114.search0203.0.0.19707931BYeFB3&site=glo&isrefine=y&SortType=total_tranpro_desc&g=y&tc=ppc&tag=&needQuery=n",
+            "children": [],
+            "state": "finished",
+            "many": 346
+          },
+          {
+            "text": "Face",
+            "href": "//www.aliexpress.com/premium/face.html?spm=2114.search0204.0.0.746e68bfHyJ3CS&isrefine=y&site=glo&SortType=total_tranpro_desc&g=y&SearchText=face&tc=ppc&CatId=200002523&needQuery=n",
+            "children": [],
+            "state": "finished",
+            "many": 396
+          },
+          {
+            "text": "Makeup Tools",
+            "href": "//www.aliexpress.com/category/200002544/makeup-brushes-tools.html?site=glo&g=y&needQuery=n&isrefine=y",
+            "children": [],
+            "state": "finished",
+            "many": 299
+          }
+        ]
+      },
+      {
+        "text": "Health Care",
+        "href": "//www.aliexpress.com/af/Health-Care.html?site=glo&isrefine=y&g=y&origin=n&spm=2114.search0604.3.2.1385617dO4fhtO&jump=afs&SearchText=Health+Care&CatId=200002496&initiative_id=SB_20181203043553&needQuery=n",
+        "children": [
+          {
+            "text": "Massage & Relaxation",
+            "href": "//www.aliexpress.com/category/200002503/massage-relaxation.html?spm=2114.search0103.3.20.696619datOYHab&site=glo&g=y",
+            "children": [],
+            "state": "finished",
+            "many": 299
+          },
+          {
+            "text": "Household Health Monitors",
+            "href": "//www.aliexpress.com/category/200002497/household-health-monitors.html?spm=2114.search0103.3.22.696619datOYHab&site=glo&g=y",
+            "children": [],
+            "state": "finished",
+            "many": 135
+          },
+          {
+            "text": "Chinese Medicine",
+            "href": "//www.aliexpress.com/category/200218327/chinese-medicine.html?spm=2114.search0103.3.23.696619datOYHab&site=glo&g=y",
+            "children": [],
+            "state": "finished",
+            "many": 264
+          },
+          {
+            "text": "Personal Health Care Items",
+            "href": "//www.aliexpress.com/category/200218328/personal-health-care.html?spm=2114.search0103.3.25.696619datOYHab&site=glo&g=y",
+            "children": [],
+            "state": "finished",
+            "many": 273
+          }
+        ]
+      },
+      {
+        "text": "Skin Care",
+        "href": "//www.aliexpress.com/category/3306/skin-care.html?site=glo&g=y&needQuery=n&isrefine=y",
+        "children": [
+          {
+            "text": "Face",
+            "href": "//www.aliexpress.com/category/3306/skin-care.html?site=glo&g=y&needQuery=n&isrefine=y",
+            "children": [],
+            "state": "finished",
+            "many": 412
+          },
+          {
+            "text": "Eyes",
+            "href": "//www.aliexpress.com/category/200002596/eyes.html?site=glo&g=y&isrefine=y",
+            "children": [],
+            "state": "finished",
+            "many": 383
+          },
+          {
+            "text": "Body",
+            "href": "//www.aliexpress.com/category/200002594/body.html?site=glo&g=y&isrefine=y",
+            "children": [],
+            "state": "finished",
+            "many": 392
+          },
+          {
+            "text": "Skin Care Tools",
+            "href": "//www.aliexpress.com/category/200216777/skin-care-tool.html?site=glo&g=y&isrefine=y",
+            "children": [],
+            "state": "finished",
+            "many": 315
+          }
+        ]
+      },
+      {
+        "text": "Nail Art & Tools",
+        "href": "//www.aliexpress.com/category/200002547/nails-art-tools.html?spm=2114.search0103.3.1.696619daOetDSX&site=glo&g=y",
+        "children": [
+          {
+            "text": "Gel Nail Polish",
+            "href": "//www.aliexpress.com/af/category/200002555.html?site=glo&isrefine=y&g=y&origin=n&spm=2114.search0603.3.3.73ff5823ZwwrNj&jump=afs&CatId=200002555&catName=nail-gel&needQuery=n",
+            "children": [],
+            "state": "finished",
+            "many": 276
+          },
+          {
+            "text": "Nail Drills",
+            "href": "//www.aliexpress.com/af/category/200002584.html?site=glo&isrefine=y&g=y&origin=n&spm=2114.search0603.3.8.581d6fb22lWY2x&jump=afs&CatId=200002584&catName=electric-manicure-drills-accessories&needQuery=n",
+            "children": [],
+            "state": "finished",
+            "many": 291
+          },
+          {
+            "text": "Nail Dryers",
+            "href": "//www.aliexpress.com/af/category/200002588.html?site=glo&isrefine=y&g=y&origin=n&spm=2114.search0603.3.3.6b276fb2db0dBE&jump=afs&CatId=200002588&catName=nail-dryers&needQuery=n",
+            "children": [],
+            "state": "finished",
+            "many": 288
+          },
+          {
+            "text": "Nail Glitter",
+            "href": "//www.aliexpress.com/w/wholesale-Nail-Glitter.html?initiative_id=SB_20181203023429&site=glo&g=y&SearchText=Nail+Glitter&CatId=200002551&isrefine=y",
+            "children": [],
+            "state": "finished",
+            "many": 213
+          }
+        ]
+      },
+      {
+        "text": "Personal Care",
+        "href": "//www.aliexpress.com/category/200002458/hair-care-styling.html?spm=2114.search0103.3.36.696619dardVoV8&site=glo&g=y",
+        "children": [
+          {
+            "text": "Hair Care & Styling",
+            "href": "//www.aliexpress.com/category/200002458/hair-care-styling.html?spm=2114.search0103.3.36.696619dardVoV8&site=glo&g=y",
+            "children": [],
+            "state": "finished",
+            "many": 330
+          },
+          {
+            "text": "Shaving & Hair Removal",
+            "href": "//www.aliexpress.com/category/660302/shaving-hair-removal.html?spm=2114.search0103.3.45.696619dardVoV8&site=glo&g=y",
+            "children": [],
+            "state": "finished",
+            "many": 293
+          },
+          {
+            "text": "Oral Hygiene",
+            "href": "//www.aliexpress.com/category/3305/oral-hygiene.html?spm=2114.search0103.3.83.696619dardVoV8&site=glo&g=y",
+            "children": [],
+            "state": "finished",
+            "many": 298
+          }
+        ]
+      },
+      {
+        "text": "Tattoos & Body Art",
+        "href": "//www.aliexpress.com/af/category/200003551.html?site=glo&g=y&catName=tattoo-body-art&CatId=200003551&origin=n&spm=2114.search0603.3.67.449619daGJoQjf&jump=afs",
+        "children": [
+          {
+            "text": "Tattoo Kits",
+            "href": "//www.aliexpress.com/af/category/200003555.html?site=glo&g=y&catName=tattoo-kits&CatId=200003555&origin=n&spm=2114.search0603.3.71.449619daGJoQjf&jump=afs",
+            "children": [],
+            "state": "finished",
+            "many": 300
+          }
+        ]
+      },
+      {
+        "text": "Adult Items",
+        "href": "//www.aliexpress.com/af/category/200003058.html?site=glo&isrefine=y&g=y&d=n&origin=n&jump=afs&CatId=200003058&catName=safer-sex&isViewCP=y&needQuery=n",
+        "children": [
+          {
+            "text": "Condoms",
+            "href": "//www.aliexpress.com/category/200003059/condoms.html?site=glo&g=y&needQuery=n&isrefine=y",
+            "children": [],
+            "state": "finished",
+            "many": 289
+          },
+          {
+            "text": "Lubricants",
+            "href": "//www.aliexpress.com/category/200003062/lubricants.html?site=glo&g=y&needQuery=n&isrefine=y",
+            "children": [],
+            "state": "finished",
+            "many": 269
+          },
+          {
+            "text": "Vibrators",
+            "href": "//www.aliexpress.com/af/category/200003057.html?site=glo&isrefine=y&g=y&d=n&origin=n&jump=afs&CatId=200003057&catName=vibrators&isViewCP=y&needQuery=n",
+            "children": [],
+            "state": "finished",
+            "many": 294
+          }
+        ]
+      }
+    ]
+  }
+]
