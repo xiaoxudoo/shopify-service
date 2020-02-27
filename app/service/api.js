@@ -115,7 +115,9 @@ class ApiService extends Service {
       }
       // 计算总数
 
-      let sqlquery = `select shopify_domain.domain, domain_state.status, domain_state.review, count(*) from shopify_domain left join domain_state on shopify_domain.domain = domain_state.domain where is_ww_ship = ${is_ww_ship}`;
+      const sqlquery1 = `select shopify_domain.domain, domain_state.status, domain_state.review, count(*) from shopify_domain left join domain_state on shopify_domain.domain = domain_state.domain where is_ww_ship = ${is_ww_ship}`;
+      const sqlquery2 = `select shopify_domain.domain, domain_state.status, domain_state.review from shopify_domain left join domain_state on shopify_domain.domain = domain_state.domain where is_ww_ship = ${is_ww_ship}`;
+      let sqlquery = !!is_uniq ? sqlquery1 : sqlquery2
       if (!_.isEmpty(category_name_options)) {
         _.keys(category_name_options).forEach(key => {
           const value = category_name_options[key];
@@ -141,7 +143,7 @@ class ApiService extends Service {
 
       logger.info(sqlquery);
       const wholeDomains = await mysql.query(sqlquery);
-
+      console.log('wholeDomains', wholeDomains.length);
       // 分页查询数据
       if (current && pageSize) {
         sqlquery += ` LIMIT ${(current - 1) * pageSize}, ${pageSize}`;
@@ -152,7 +154,7 @@ class ApiService extends Service {
       domains = _.map(domains, (domain, index) => ({
         ...domain,
         index,
-        rank: domain["count(*)"],
+        rank: domain["count(*)"] || 1,
         status: domain.status === null ? 0 : domain.status
       }));
       return { data: domains, pageSize, total: wholeDomains.length, current };

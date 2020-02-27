@@ -26,3 +26,4 @@ use google_shopify;
 show tables;
 truncate table google_shopify.shopify_domain; // 删除表
 select count(*) from google_shopify.shopify_domain; // 查看数据条数
+SET GLOBAL sql_mode=(SELECT REPLACE(@@sql_mode,'ONLY_FULL_GROUP_BY','')); //  取消group by 的限制
