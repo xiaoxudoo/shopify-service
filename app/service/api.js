@@ -140,13 +140,14 @@ class ApiService extends Service {
       }
 
       logger.info(sqlquery);
-      console.log(sqlquery);
       const wholeDomains = await mysql.query(sqlquery);
 
       // 分页查询数据
       if (current && pageSize) {
         sqlquery += ` LIMIT ${(current - 1) * pageSize}, ${pageSize}`;
       }
+      logger.info(sqlquery);
+      console.log(sqlquery);
       let domains = await mysql.query(sqlquery);
       domains = _.map(domains, (domain, index) => ({
         ...domain,
