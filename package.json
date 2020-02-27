@@ -106,7 +106,10 @@
     "lint": "eslint .",
     "ci": "npm run lint && npm run cov",
     "autod": "autod",
-    "sync": "./script/sync.js"
+    "sync": "./script/sync.js",
+    "shopify": "node ./crawler/src/google-shopify.js",
+    "analysis": "node ./crawler/src/analysis.js",
+    "mysql": "node ./crawler/src/mysql.js"
   },
   "ci": {
     "version": "8",

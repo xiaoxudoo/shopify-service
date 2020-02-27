@@ -1,5 +1,4 @@
 logs/
-crawler/
 npm-debug.log
 yarn-error.log
 node_modules
@@ -16,3 +15,10 @@ app/public
 config/manifest.json
 app/web/.temp
 .umi
+
+crawler/data/
+crawler/demo/
+crawler/result.txt
+crawler/aliexpress-catergories.json
+crawler/google-shopify.log
+crawler/*.bk
