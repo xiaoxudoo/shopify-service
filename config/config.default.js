@@ -24,7 +24,8 @@ module.exports = appInfo => {
       autoPort: true,
       command: 'umi dev --port={port}',
       env: {
-        APP_ROOT: path.join(__dirname, '../app/web'),
+        APP_ROOT: path.join(__dirname, '../app/web'),        // 调试web tsx
+        // APP_ROOT: path.join(__dirname, '../app/web.js'),  // 调试web.js, react版本兼容问题？
         BROWSER: 'none',
         SOCKET_SERVER: 'http://127.0.0.1:{port}',
       },
@@ -48,7 +49,7 @@ module.exports = appInfo => {
         // 用户名
         user: "root",
         // 密码
-        password: "",
+        password: "xiaoxudoo@126", // your password
         // 数据库名
         database: "google_shopify"
       },

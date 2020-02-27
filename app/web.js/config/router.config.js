@@ -256,21 +256,6 @@ export default [
           },
         ],
       },
-      {
-        path: '/welcome',
-        name: 'welcome',
-        icon: 'smile',
-        component: './Welcome',
-      },
-      {
-        name: 'list.shopify',
-        icon: 'table',
-        path: '/list',
-        component: './ListTableList',
-      },
-      {
-        component: '404',
-      },
     ],
   },
 ];

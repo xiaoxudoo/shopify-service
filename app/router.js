@@ -8,5 +8,6 @@ module.exports = app => {
   router.get('/api/category', controller.api.category);
   router.get('/api/shopify', controller.api.shopify);
   router.post('/api/updateStatus', controller.api.shopify_status);
+  router.get('/api/currentUser', controller.api.currentUser);
   router.get('*', controller.home.index);
 };
