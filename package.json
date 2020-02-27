@@ -1,7 +1,7 @@
 {
-  "name": "egg-ant-design-pro",
+  "name": "egg-antd-pro-shopify",
   "version": "1.0.0",
-  "description": "Egg Example for Ant Design Pro",
+  "description": "shopify query service",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^4.0.0-alpha.19",
